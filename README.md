@@ -2,6 +2,9 @@
 ### Be welcome to my Github profile :smiley_cat:
 My name is Fernanda and I'm a developer student currently learning Python, Java
           
+###### Curiosities about me:
+<p>🐱 I love animals and have 7 cats.</>
+<p>🌿 I'm vegan.</>
 
 <div>
 <a href="https://github.com/FernandaIshida">
