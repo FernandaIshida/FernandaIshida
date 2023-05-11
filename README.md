@@ -10,7 +10,7 @@ My name is Fernanda and I'm a developer student currently learning Python, Java
 </div>
           
           
-###### Ferramentas e Tecnologias:
+###### Tools and Technologies:
 <div align-"center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"width="50px"/>
@@ -20,7 +20,7 @@ My name is Fernanda and I'm a developer student currently learning Python, Java
 </div>
                     
           
-###### 📫Contatos:
+###### 📫Contacts:
 <div>
 <a href = "mailto:contato@fer.ishida@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fernandaishidadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
