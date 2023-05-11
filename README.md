@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there! 👋
+# Be welcome to my Github profile :smiley_cat:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
 
 <!--
 **FernandaIshida/FernandaIshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
