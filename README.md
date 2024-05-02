@@ -1,6 +1,6 @@
 ### Hey there! 👋
 ### Be welcome to my Github profile :smiley_cat:
-My name is Fernanda and I'm a developer student currently learning Python, Java
+My name is Fernanda and I'm a developer student currently learning Python, Java and much more!
           
 ###### Curiosities about me:
 <p>🐱 I love animals and have 7 cats.</>
