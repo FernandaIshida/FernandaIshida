@@ -1,10 +1,13 @@
 ### Hey there! 👋
-### Be welcome to my Github profile :smiley_cat:
+### Welcome to my Github profile :smiley_cat:
 I'm a Full Stack intern at TelessaúdeRS, where I help develop web-based solutions focused on public healthcare. I have experience working on both the front-end and back-end, using modern technologies to build scalable systems with real-world impact.
           
-###### Curiosities about me:
-<p>🐱 I love animals and have 7 cats.</>
-<p>🌿 I'm vegan.</>
+#### 🐾 A few fun facts about me:
+- 🐱 I love animals and have **7 cats**!
+- 🌿 I'm vegan.
+
+### 🌱 Interests  
+I'm passionate about learning more about **software architecture**, **clean code practices**, and using **technology to improve public services and social impact**.
 
 <div>
 <a href="https://github.com/FernandaIshida">
@@ -13,12 +16,18 @@ I'm a Full Stack intern at TelessaúdeRS, where I help develop web-based solutio
 </div>
           
           
-###### Tools and Technologies:
-<div align-"center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"width="50px" />
+###### 🛠️ Tools and Technologies:
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width="50px style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"width="50px style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"width="50px style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50px style="margin: 0 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"width="50px style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px style="margin: 0 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50px" style="margin: 0 10px;" alt="Tailwind CSS"/>
+
           
 </div>
                     
